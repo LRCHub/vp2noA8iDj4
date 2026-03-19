@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "にんじゃりばんばん",
+  "base_artist": "きゃりーぱみゅぱみゅ",
+  "createdAt": "2026-03-19T04:56:10.387873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん -extended mix-",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/01_にんじゃりばんばん_-extended_mix-_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん -extended mix-",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/02_にんじゃりばんばん_-extended_mix-_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ninjari Bang Bang (extended mix) [にんじゃりばんばん (extended mix)]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/03_Ninjari_Bang_Bang_(extended_mix)_[にんじゃりばんばん_(extended_mix)]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ninjari Bang Bang [にんじゃりばんばん]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/04_Ninjari_Bang_Bang_[にんじゃりばんばん]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ninja Re Bang Bang (にんじゃりばんばん)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/05_Ninja_Re_Bang_Bang_(にんじゃりばんばん)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/06_にんじゃりばんばん_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/07_にんじゃりばんばん_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/08_にんじゃりばんばん_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん -extended mix-",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/09_にんじゃりばんばん_-extended_mix-_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん -extended mix-",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/10_にんじゃりばんばん_-extended_mix-_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ninjari Ban Ban (にんじゃりばんばん; Ninja Turn Turn)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": false,
+      "path": "select/11_Ninjari_Ban_Ban_(にんじゃりばんばん;_Ninja_Turn_Turn)_Kyary_Pamyu_Pamyu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん - Ninja Re Bang Bang",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/12_にんじゃりばんばん_-_Ninja_Re_Bang_Bang_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん",
+      "artist": "卡莉怪妞",
+      "has_synced": true,
+      "path": "select/13_にんじゃりばんばん_卡莉怪妞.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "にんじゃりばんばん (Steve Aoki Remix)",
+      "artist": "Kyary Pamyu Pamyu\u0000Steve Aoki",
+      "has_synced": true,
+      "path": "select/14_にんじゃりばんばん_(Steve_Aoki_Remix)_Kyary_Pamyu_Pamyu\u0000Steve_Aoki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にんじゃりばんばん",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_01_にんじゃりばんばん_きゃりーぱみゅぱみゅ.txt"
+    }
+  ]
+}
